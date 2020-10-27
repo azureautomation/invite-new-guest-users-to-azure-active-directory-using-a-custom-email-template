@@ -1,0 +1,20 @@
+{
+    "Author": "John Seerden",
+    "ContentSize": 4960,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/invite-new-guest-users-to-azure-active-directory-using-a-custom-email-template/master/New-CustomAzureADMSInvitation.ps1",
+    "DownloadCount": 1552,
+    "Id": "Invite-new-guest-users-to-c3d31cb9",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 56,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-8-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script allows you to invite a new external guest user to your Azure Active Directory. Instead of using the default email template that Microsoft providers, you can define a companybranded email template in the script which will be used to send the email invitations to your",
+    "Title": "Invite new guest users to Azure Active Directory using a custom email template",
+    "UpdatedDate": "2018-8-23T00:00:00",
+    "Url": "https://github.com/azureautomation/invite-new-guest-users-to-azure-active-directory-using-a-custom-email-template",
+    "UserTags": "Powershell, azure active directory, Azure Guest Access"
+}
